@@ -24,14 +24,14 @@ Projects
    A C++ coursework project involving operator overloading and Mandelbrot-related calculations.
 
 Key Concepts
-C++
-Object-oriented programming
-Inheritance and polymorphism
-Composition
-Operator overloading
-File I/O
-Exception handling
-STL containers
+- C++
+- Object-oriented programming
+- Inheritance and polymorphism
+- Composition
+- Operator overloading
+- File I/O
+- Exception handling
+- STL containers
 
 
 
