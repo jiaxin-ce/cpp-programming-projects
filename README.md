@@ -6,22 +6,22 @@ The projects cover file handling, object-oriented programming, and operator over
 
 Projects
 1. Dataset Sharding
-   A C++ program that splits a dataset into smaller files based on a user-defined shard size.
+   - A C++ program that splits a dataset into smaller files based on a user-defined shard size.
 
 2. Object-Oriented Programming
-   A collection of coursework projects focused on classes, inheritance, and code reuse.
+   - A collection of coursework projects focused on classes, inheritance, and code reuse.
 
    Commission Employee
-   Implements a base class CommissionEmployee and a derived class BasePlusCommissionEmployee.
+   - Implements a base class CommissionEmployee and a derived class BasePlusCommissionEmployee.
 
    Quadrilateral Hierarchy
-   Models geometric shapes using classes such as Point, Polygon, Quadrilateral, and Rhombus.
+   - Models geometric shapes using classes such as Point, Polygon, Quadrilateral, and Rhombus.
 
    Package Hierarchy
-   Implements a base class Package and derived classes TwoDayPackage and OvernightPackage.
+   - Implements a base class Package and derived classes TwoDayPackage and OvernightPackage.
 
 3. Operator Overloading
-   A C++ coursework project involving operator overloading and Mandelbrot-related calculations.
+   - A C++ coursework project involving operator overloading and Mandelbrot-related calculations.
 
 Key Concepts
 - C++
